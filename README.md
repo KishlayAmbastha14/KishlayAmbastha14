@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @KishlayAmbastha14
-- 👀 I’m interested in Coding 
+- 👀 I’m interested in Coding
+- - 🌱 I’m currently learning DATA SCIENCE and ML, AI/ML
+- - 💞️ I’m looking to collaborate on Data science project , python project, FrontEnd Development
 - 📫 you can reach me through my email id = kishlaykumar087@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
