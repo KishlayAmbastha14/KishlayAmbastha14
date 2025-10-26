@@ -51,7 +51,7 @@ LangChain | OpenAI API | Gemini API | Hugging Face | FAISS | RAG | Prompt Engine
 FastAPI | Flask  
 
 **Frontend:**  
-HTML | CSS | JavaScript | React.js  
+HTML | CSS | JavaScript 
 
 **Database:**  
 MySQL | SQLite  
