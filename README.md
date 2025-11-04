@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishlay Kumar (a.k.a. @KishlayAmbastha14)
 
-🎯 **Aspiring Data Scientist | AI/ML Developer | Generative AI Explorer | Python **
+🎯 **Aspiring Data Scientist | AI/ML Developer | Generative AI Explorer | Python**
 
 ---
 
