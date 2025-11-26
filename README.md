@@ -113,9 +113,24 @@ When I’m not coding, I’m either experimenting with new **AI models**, **read
 
 ### 🌟 “Learning every day to become 1% better in Data Science & AI.”
 
+<!--
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KishlayAmbastha14&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KishlayAmbastha14&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=KishlayAmbastha14&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=KishlayAmbastha14&color=blueviolet)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KishlayAmbastha14&style=pixel)
+
+--->
+
+
 <!---
 KishlayAmbastha14/KishlayAmbastha14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
