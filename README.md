@@ -1,137 +1,127 @@
-# 👋 Hi, I'm Kishlay Kumar (a.k.a. @KishlayAmbastha14)
+<div align="center">
 
-🎯 **Aspiring Data Scientist | AI/ML Developer | Generative AI Explorer | Python**
+# 👋 Hi, I'm Kishlay Kumar
+
+### 🎯 Aspiring Data Scientist | AI/ML Developer | Generative AI Explorer
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Smart+Systems;Explaining+Data+with+Stories;Explaining+AI+with+Code;Always+Learning+Generative+AI" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kishlay-kumar-ambastha123" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:kishlaykumar087@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/KishlayAmbastha14">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
 ## 👀 About Me
 
-- 💡 Passionate about **Data Science, Machine Learning, Deep Learning, and Generative AI**
-- 🌱 Currently learning and exploring:
-  - 📊 **Data Science & ML** — CampusX  
-  - 🧠 **Deep Learning (ANN, CNN, NLP)**  
-  - 🤖 **Generative AI & LLMs** — using **LangChain**, **RAG (Retrieval-Augmented Generation)**, **Vector Databases**, and **Gemini / OpenAI APIs**
-  - ⚙️ **Backend Development** — with **FastAPI**
-  - 🌐 **Frontend** —  HTML, CSS, JavaScript
-- 💬 I love creating **AI-powered applications** that solve **real-world problems**
-- 💞️ Open to collaborate on **Data Science, ML/AI, LLM, RAG, or Full Stack projects**
-- 🧠 Always curious about how **AI models think, learn, and reason**
+I am a passionate developer diving deep into the world of **Artificial Intelligence**. My goal is to bridge the gap between complex data and real-world solutions using modern ML architectures and LLMs.
+
+- 🔭 **I’m currently working on:** Full-Stack AI Projects using **FastAPI** & **LangChain**.
+- 🌱 **I’m currently learning:** Deep Learning (CNNs, Transformers) & RAG Implementation.
+- 👯 **I’m looking to collaborate on:** Generative AI, RAG, and Computer Vision projects.
+- 💬 **Ask me about:** Python, Machine Learning Pipelines, and Prompt Engineering.
+- ⚡ **Fun fact:** When I’m not coding, I’m reading ML research papers or analyzing data patterns for fun!
 
 ---
 
-## 🚀 My Projects
+## 🛠️ Tech Stack & Tools
 
-### 🔬 Data Science & ML Projects
-- 🩺 **SwasthyaSetu** — Health Prediction Web App  
-  *(EDA, preprocessing, model pipeline, and web deployment)*  
-- 🌾 **Crop Recommendation System** — Smart crop prediction using soil & weather features  
-- 💉 **Diabetes Prediction Model** — Feature engineering, SMOTE, hyperparameter tuning, and ANN model  
-- 📊 **Exploratory Data Analysis Projects** — Pandas, Matplotlib, Seaborn, Scikit-learn  
+<div align="center">
 
-### 🤖 AI / Generative AI Projects
-- 🧠 **AI Therapist Chatbot** — FastAPI + Gemini API + HTML/CSS/JS  
-- 🗃️ **RAG-based Knowledge Assistant** *(in progress)* — Uses LangChain + FAISS + LLMs for contextual Q&A  
-- 💬 **Chatbot with Prompt Engineering** — Custom personality & context-based interactions  
-- 🎨 **Generative AI Experiments** — Text generation, image prompts, embeddings, and fine-tuning trials  
-
----
-
-## 🧠 Tech Stack
-
-**Languages:**  
-Python | C++ | JavaScript | SQL  
-
-**Data Science & ML Tools:**  
-NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | Keras   
-
-**Generative AI & LLMs:**  
-LangChain | OpenAI API | Gemini API | Hugging Face | FAISS | RAG | Prompt Engineering  
-
-**Backend:**  
-FastAPI | Flask  
-
-**Frontend:**  
-HTML | CSS | JavaScript 
-
-**Database:**  
-MySQL | SQLite  
-
-**Others:**  
-Git | GitHub | VS Code | Jupyter Notebook | Google Colab  
-
----
-
-## 🧩 What I'm Currently Focusing On
-📅 **2025 Learning Plan**
-- 🧮 Deep Learning (CNN, RNN, Transformers)
-- 🗣️ NLP + LLM Fine-tuning  
-- 🔍 RAG Applications (Document-based Chatbots)  
-- ⚙️ MLOps & Model Deployment  
-- 🌐 Full-Stack AI Projects (FastAPI)
-- 📈 Improving real-world data storytelling & dashboards
-
----
-
-## 🧑‍💻 Featured Tools & Frameworks
+### **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-<!-- 
-## 📈 GitHub Stats
-![Kishlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishlayAmbastha14&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishlayAmbastha14&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KishlayAmbastha14&theme=tokyonight)
-![](https://komarev.com/ghpvc/?username=KishlayAmbastha14&color=blueviolet)
+### **Data Science & ML**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
----
-## 📈 GitHub Stats
-![Kishlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishlayAmbastha14&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishlayAmbastha14&layout=compact&theme=tokyonight)
--->
+### **Generative AI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
+### **Backend & Web**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 Connect With Me
-📧 Email: [kishlaykumar087@gmail.com](mailto:kishlaykumar087@gmail.com)  
-💼 LinkedIn: www.linkedin.com/in/kishlay-kumar-ambastha123 
-🐙 GitHub: [@KishlayAmbastha14](https://github.com/KishlayAmbastha14)
+</div>
 
 ---
 
-## ⚡ Fun Fact
-When I’m not coding, I’m either experimenting with new **AI models**, **reading ML papers**, or **analyzing data** 😄  
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🩺 **SwasthyaSetu** | **Health Prediction Web App.** A comprehensive health monitoring system handling EDA, preprocessing, and model pipelines. | `Python` `Streamlit` `Scikit-Learn` |
+| 🤖 **AI Therapist** | **Chatbot.** A mental health assistant built to provide empathetic responses using GenAI. | `FastAPI` `Gemini API` `JS` |
+| 🌾 **Crop Recommender** | **Smart Agriculture.** Predicts the best crop to grow based on soil and weather features. | `ML` `Pandas` `Random Forest` |
+| 🗃️ **RAG Assistant** | *(In Progress)* A knowledge assistant using Vector DBs for contextual Q&A. | `LangChain` `FAISS` `LLMs` |
 
 ---
 
-### 🌟 “Building smart systems that learn, adapt, and make an impact.”
+## 📅 2025 Learning Roadmap
 
-### 🌟 “Learning every day to become 1% better in Data Science & AI.”
+- [ ] **Deep Learning:** Mastering CNNs, RNNs, and Transformers architectures.
+- [ ] **LLM Ops:** Fine-tuning Large Language Models and efficient inference.
+- [ ] **Advanced RAG:** Building document-based chatbots with high accuracy.
+- [ ] **Deployment:** Dockerizing AI apps and deploying on cloud platforms.
 
-<!--
+---
 
-## 📈 GitHub Stats
+## 📊 Coding Analytics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KishlayAmbastha14&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishlayAmbastha14&theme=dracula" alt="Profile Details" />
+</div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KishlayAmbastha14&layout=compact&theme=tokyonight)
+<br/>
 
-![Streak](https://streak-stats.demolab.com?user=KishlayAmbastha14&theme=tokyonight)
+ <div align="center">
+ <!-- <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=KishlayAmbastha14&show_icons=true&theme=midnight-purple&hide_border=true" />
+      </td>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishlayAmbastha14&layout=compact&theme=midnight-purple&hide_border=true" />
+      </td>
+    </tr>
+  </table> -->
+  
+<!--  <img src="https://streak-stats.demolab.com?user=KishlayAmbastha14&theme=midnight-purple&hide_border=true" /> -->
+</div>
 
-![](https://komarev.com/ghpvc/?username=KishlayAmbastha14&color=blueviolet)
+---
+
+<div align="center">
+  
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25" width="100%"/>
+
+ <!-- <p>👀 Total Views</p>
+ <img src="https://komarev.com/ghpvc/?username=KishlayAmbastha14&style=flat-square&color=blueviolet&label=VIEWS" alt="Profile Views"/> -->
+  
+</div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=KishlayAmbastha14&style=pixel)
 
---->
-
-
-<!---
-KishlayAmbastha14/KishlayAmbastha14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
